@@ -21,10 +21,11 @@ https://tensorflow.google.cn/tutorials/keras/basic_classification
         下载数据集http://yann.lecun.com/exdb/mnist/
         https://github.com/zalandoresearch/fashion-mnist/archive/master.zip
 
-文本回归
-
+文本分类
+    https://tensorflow.google.cn/tutorials/keras/basic_text_classification
 回归
-
+    https://tensorflow.google.cn/tutorials/keras/basic_regression
 过拟合和欠拟合
-
+    
 保存和恢复模型
+    
