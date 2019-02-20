@@ -27,7 +27,7 @@ model = keras.Sequential([
 ])
 
 # AdamOptimizer 梯度下降算法优化
-# sparse_categorical_crossentropy 损失函数评估模型zhunql
+# sparse_categorical_crossentropy 损失函数评估模型准确率
 # accuracy 指标监控
 model.compile(optimizer=tf.train.AdamOptimizer(),
               loss='sparse_categorical_crossentropy',
