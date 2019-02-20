@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\workspaces\\python\\tensorflow-learn-git/data/save/cp.ckpt"
+all_model_checkpoint_paths: "D:\\workspaces\\python\\tensorflow-learn-git/data/save/cp.ckpt"
